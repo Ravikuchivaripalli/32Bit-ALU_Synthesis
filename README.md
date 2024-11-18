@@ -45,9 +45,6 @@ used.
 
 #### Power Report:
 ![image](https://github.com/user-attachments/assets/8e9a43ec-6674-4383-929b-7be1408d1677)
-
-
-
 #### Result: 
 
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
